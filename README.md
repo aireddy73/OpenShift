@@ -1021,9 +1021,10 @@ curl -I --cacert ./myCA.crt https://todo-https.apps.ocp4.example.com
 ```
 
 
-## # AAA  
-#### # BBB  
 
+### References
+- [ OpenShift](https://github.com/fahmifahim/openshift)
+  
 #### # Template  
 <details>
 <summary>template</summary>
